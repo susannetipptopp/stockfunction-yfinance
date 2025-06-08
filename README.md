@@ -1,0 +1,2 @@
+# stockfunction-yfinance
+connectionapp
